@@ -8,7 +8,8 @@ A Line Follower Robot, as the name suggests, is an automated guided vehicle, whi
 
 **Author**
 
-- Jathujan Mahendran 
+- Jathujan Mahendran, Community Innovator at Dream Space Academy.
+
 
 **Acknowledgmen**t 
 
