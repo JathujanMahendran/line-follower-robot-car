@@ -49,7 +49,8 @@ In this arduino based line follower robot we have used IR Transmitters and IR re
 <p align="justify">
 Working of line follower is very interesting. Line follower robot senses black line by using sensor and then sends the signal to arduino. Then arduino drives the motor according to sensors' output.
 </p>
-Circuit diagram 
+
+### Circuit diagram 
 <p align="center">
 <img src="source/image-video/image-2.png"  height="400px" weidth="400px">
 </p>
