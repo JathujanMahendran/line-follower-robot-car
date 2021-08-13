@@ -24,9 +24,6 @@ A Line Follower Robot, as the name suggests, is an automated guided vehicle, whi
 <p align="justify">
 The concept of working of line follower is related to light. We use the behavior of light at black and white surface. When light falls on a white surface it is almost fully reflected and in the case of a black surface light is completely absorbed. This behavior of light is used in building a line follower robot.
 
-<p align="center">
-<img src="source/image-video/image-1.jfif"  height="300px" weidth="300px">
-</p>
 
 In this arduino based line follower robot we have used IR Transmitters and IR receivers also called photodiodes. They are used for sending and receiving light. IR transmits infrared lights. When infrared rays falls on white surface, it’s reflected back and catched by photodiodes which generates some voltage changes. When IR light falls on a black surface, light is absorb by the black surface and no rays are reflected back, thus the photo diode does not receive any light or rays.
 </p>
@@ -46,6 +43,10 @@ In this arduino based line follower robot we have used IR Transmitters and IR re
 
 
 ### Working of Line Follower Robot using Arduino
+<p align="center">
+<img src="source/image-video/image-1.jfif"  height="300px" weidth="300px">
+</p>
+
 <p align="justify">
 Working of line follower is very interesting. Line follower robot senses black line by using sensor and then sends the signal to arduino. Then arduino drives the motor according to sensors' output.
 </p>
