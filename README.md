@@ -1,6 +1,6 @@
 # line-follower-robot-car
 <p align="justify">
-A Line Follower Robot, as the name suggests, is an automated guided vehicle, which follow a visual line embedded on the floor or ceiling. Usually, the visual line is the path in which the line follower robot goes and it will be a black line on a white surface
+A Line Follower Robot, as the name suggests, is an automated guided vehicle, which follows a visual line embedded on the floor or ceiling. Usually, the visual line is the path in which the line follower robot goes and it will be a black line on a white surface
 </p>
 <p align="center">
 <img src="source/image-video/image-4.jpg"  height="400px" weidth="400px">
@@ -25,7 +25,7 @@ A Line Follower Robot, as the name suggests, is an automated guided vehicle, whi
 The concept of working of line follower is related to light. We use the behavior of light at black and white surface. When light falls on a white surface it is almost fully reflected and in the case of a black surface light is completely absorbed. This behavior of light is used in building a line follower robot.
 
 
-In this arduino based line follower robot we have used IR Transmitters and IR receivers also called photodiodes. They are used for sending and receiving light. IR transmits infrared lights. When infrared rays falls on white surface, it’s reflected back and catched by photodiodes which generates some voltage changes. When IR light falls on a black surface, light is absorb by the black surface and no rays are reflected back, thus the photo diode does not receive any light or rays.
+In this arduino based line follower robot, we have used IR Transmitters and IR receivers also called photodiodes. They are used for sending and receiving light. IR transmits infrared lights. When infrared rays falls on white surface, it’s reflected back and caught by photodiodes which generate some voltage changes. When IR light fall on a black surface, light is absorbed by the black surface and no rays are reflected back, thus the photodiode does not receive any light or rays.
 </p>
 <p align="center">
 <img src="source/image-video/image-3.jpg"  height="400px" weidth="400px">
@@ -35,7 +35,7 @@ In this arduino based line follower robot we have used IR Transmitters and IR re
 
 * Arduino Uno
 * Chassis
-* Two battery operated motors and compatible tyres
+* Two battery-operated motors and compatible tyres
 * Two infrared sensors
 * Motor driver module - L298N
 * Power Supply
